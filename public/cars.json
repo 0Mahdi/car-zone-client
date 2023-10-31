@@ -1,0 +1,617 @@
+[
+  {
+    "name": "BMW 7 Series",
+    "description": "The BMW 7 Series, BMW's flagship luxury sedan, offers exceptional performance, advanced tech, opulent interiors, powerful engines, and ultimate comfort, delivering a truly luxurious experience.",
+    "image": "https://www.topgear.com/sites/default/files/2023/08/P90492179_highRes_bmw-i7-xdrive60-m-sp%20%281%29.jpg",
+    "year": "2023",
+    "category": "popular",
+    "price": 96400
+  },
+  {
+    "name": "BMW 7 Series",
+    "description": "The BMW 7 Series, BMW's flagship luxury sedan, offers exceptional performance, advanced tech, opulent interiors, powerful engines, and ultimate comfort, delivering a truly luxurious experience.",
+    "image": "https://www.topgear.com/sites/default/files/2023/08/P90492179_highRes_bmw-i7-xdrive60-m-sp%20%281%29.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 96400
+  },
+  {
+    "name": "BMW 3 Series",
+    "description": "The BMW 3 Series is a compact luxury sedan known for its sporty performance, elegant design, and advanced technology.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BMW_G20_IMG_0167.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 41250
+  },
+  {
+    "name": "BMW X5",
+    "description": "The BMW X5 is a midsize luxury SUV with a perfect blend of power, style, and comfort, making it a popular choice among SUV enthusiasts.",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 60700
+  },
+  {
+    "name": "BMW 5 Series",
+    "description": "The BMW 5 Series is a midsize luxury sedan with a focus on a balance between performance and comfort, offering a great driving experience.",
+    "image": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/nenhgr7nailbdchryen6",
+    "year": "2023",
+    "category": "bmw",
+    "price": 54200
+  },
+  {
+    "name": "BMW X3",
+    "description": "The BMW X3 is a compact luxury SUV known for its spacious interior, responsive handling, and a range of tech features.",
+    "image": "https://media.ed.edmunds-media.com/bmw/x3/2022/oem/2022_bmw_x3_4dr-suv_xdrive30i_fq_oem_1_1600.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 43700
+  },
+  {
+    "name": "BMW 8 Series",
+    "description": "The BMW 8 Series is a luxury sports car offering high performance and a stunning design, making it a statement on the road.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2019_BMW_M850i_xDrive%2C_front_1.23.20.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 85000
+  },
+  {
+    "name": "BMW X7",
+    "description": "The BMW X7 is a full-size luxury SUV with three rows of seating, providing ample space and comfort for passengers.",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X7/10571/1689673096346/front-left-side-47.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 74900
+  },
+  {
+    "name": "BMW Z4",
+    "description": "The BMW Z4 is a two-seat convertible sports car, perfect for those who enjoy open-top driving and a thrilling ride.",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/Z4/10183/1685003672330/front-left-side-47.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 49700
+  },
+  {
+    "name": "BMW i3",
+    "description": "The BMW i3 is an electric compact car known for its futuristic design and sustainable, emission-free driving.",
+    "image": "https://www.topgear.com/sites/default/files/2022/06/10-BMW-i3.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 44450
+  },
+  {
+    "name": "BMW M4",
+    "description": "The BMW M4 is a high-performance sports car, offering impressive power and agility for enthusiasts who seek excitement.",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/M4-Competition/10580/1689672224717/front-left-side-47.jpg",
+    "year": "2023",
+    "category": "bmw",
+    "price": 71800
+  },
+  {
+    "name": "Mercedes AMG GT 63 S",
+    "description": "The Mercedes-AMG GT 63 S: a high-performance four-door coupe with stunning design, handcrafted V8 engine, opulent interior, and advanced technology for a thrilling driving experience.",
+    "image": "https://car-images.bauersecure.com/wp-images/13349/80-mercedes-amg-gt63-e-performance-hero.jpg",
+    "year": "2023",
+    "category": "popular",
+    "price": 93900
+  },
+  {
+    "name": "Mercedes AMG GT 63 S",
+    "description": "The Mercedes-AMG GT 63 S: a high-performance four-door coupe with stunning design, handcrafted V8 engine, opulent interior, and advanced technology for a thrilling driving experience.",
+    "image": "https://car-images.bauersecure.com/wp-images/13349/80-mercedes-amg-gt63-e-performance-hero.jpg",
+    "year": "2023",
+    "category": "mercedes",
+    "price": 93900
+  },
+  {
+    "name": "Mercedes-Benz C-Class",
+    "description": "The Mercedes-Benz C-Class offers a perfect blend of luxury, performance, and advanced technology, making it a popular choice in its segment.",
+    "image": "https://www.motortrend.com/uploads/2022/04/2023-Mercedes-AMG-C43-sedan-9.jpg?fit=around%7C551:374",
+    "year": 2023,
+    "category": "mercedes",
+    "price": 41600
+  },
+  {
+    "name": "Mercedes-Benz E-Class",
+    "description": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its spacious and comfortable interior, advanced technology, and refined performance.",
+    "image": "https://www.motortrend.com/uploads/2023/01/2023-Mercedes-AMG-E-63S-4Matic-1.jpg?fit=around%7C875:492.1875",
+    "year": "2023",
+    "category": "mercedes",
+    "price": 54250
+  },
+  {
+    "name": "Audi RS6 And RS7",
+    "description": "The Audi RS6 and RS7 are high-performance sports cars with powerful V8 engines, luxurious interiors, and advanced technology, delivering a thrilling and exhilarating driving experience on the road.",
+    "image": "https://cdn.motor1.com/images/mgl/G3W2eG/s1/abt-audi-rs7-legacy-edition.jpg",
+    "year": "2023",
+    "category": "popular",
+    "price": 125995
+  },
+  {
+    "name": "Audi RS6 And RS7",
+    "description": "The Audi RS6 and RS7 are high-performance sports cars with powerful V8 engines, luxurious interiors, and advanced technology, delivering a thrilling and exhilarating driving experience on the road.",
+    "image": "https://cdn.motor1.com/images/mgl/G3W2eG/s1/abt-audi-rs7-legacy-edition.jpg",
+    "year": "2023",
+    "category": "audi",
+    "price": 125995
+  },
+  {
+    "name": "Audi A4",
+    "description": "The Audi A4 is a midsize luxury sedan with a focus on comfort, advanced features, and a smooth ride.",
+    "image": "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_fq_oem_8_1280.jpg",
+    "year": "2019",
+    "category": "audi",
+    "price": 39200
+  },
+  {
+    "name": "Audi Q5",
+    "description": "The Audi Q5 is a popular luxury SUV offering a spacious interior, refined performance, and a comfortable ride.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/2017_Audi_Q5_%28FY%29_TDI_Sport_quattro_ultra_wagon_%282018-09-17%29_01.jpg",
+    "year": "2019",
+    "category": "audi",
+    "price": 43300
+  },
+  {
+    "name": "Audi A6",
+    "description": "The Audi A6 is a midsize luxury sedan featuring a well-appointed interior, advanced tech, and a dynamic driving experience.",
+    "image": "https://d3o9uids7iaclu.cloudfront.net/content/uploads/2018/01/24120218/OVERVIEW_AUDI_A6_SEDAN.jpg",
+    "year": "2020",
+    "category": "audi",
+    "price": 54900
+  },
+  {
+    "name": "Audi Q7",
+    "description": "The Audi Q7 is a full-size luxury SUV with three rows of seating, offering spaciousness and advanced technology.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-q7-102-6495edad98657.jpg?crop=0.583xw:0.436xh;0.333xw,0.439xh&resize=1200:*",
+    "year": "2020",
+    "category": "audi",
+    "price": 54800
+  },
+  {
+    "name": "Audi A7",
+    "description": "The Audi A7 is a luxury sportback known for its striking design, performance, and cutting-edge technology.",
+    "image": "https://www.audi-mediacenter.com/system/production/media/57867/images/b522c5e4a1084c968b81195ce6c15c41f911f786/A181379_web_2880.jpg?1582398654",
+    "year": "2020",
+    "category": "audi",
+    "price": 69200
+  },
+  {
+    "name": "Audi Q3",
+    "description": "The Audi Q3 is a compact luxury SUV, offering a smaller footprint with upscale features and tech.",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Q3/10554/1689594073657/front-left-side-47.jpg",
+    "year": "2021",
+    "category": "audi",
+    "price": 36800
+  },
+  {
+    "name": "Audi A8",
+    "description": "The Audi A8 is a flagship luxury sedan with exceptional comfort, advanced technology, and a smooth ride.",
+    "image": "https://www.motortrend.com/uploads/sites/5/2018/10/2019-Audi-A8-L-71.jpg",
+    "year": "2022",
+    "category": "audi",
+    "price": 86500
+  },
+  {
+    "name": "Audi e-tron",
+    "description": "The Audi e-tron is an all-electric SUV, delivering a blend of luxury and sustainable driving performance.",
+    "image": "https://media.ed.edmunds-media.com/audi/e-tron/2022/oem/2022_audi_e-tron_4dr-suv_chronos-edition_fq_oem_1_1600.jpg",
+    "year": "2022",
+    "category": "audi",
+    "price": 65900
+  },
+  {
+    "name": "Audi RS6 Avant",
+    "description": "The Audi RS6 Avant is a high-performance wagon with a powerful V8 engine, sporty design, and spacious cargo space.",
+    "image": "https://i0.wp.com/blog.lauzonaudi.com/wp-content/uploads/2022/12/400x250_AL_AudiRS62023_Nov2022.jpg?fit=400%2C250&ssl=1",
+    "year": "2023",
+    "category": "audi",
+    "price": 112000
+  },
+  {
+    "name": "Toyota Revamps Iconic Land Cruiser",
+    "description": "Toyota introduces an updated Land Cruiser, refining its iconic off-road SUV with modern design, advanced technology, and enhanced performance, ensuring its legacy endures for a new generation of adventure-seekers.",
+    "image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2023/08/10703437.jpg",
+    "year": "2023",
+    "category": "toyota",
+    "price": 50000
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "description": "The 2019 Toyota Land Cruiser is a rugged and luxurious SUV known for its off-road capability, spacious interior, and robust V8 engine.",
+    "image": "https://img.philkotse.com/crop/600x338/2023/03/13/20230313164907-3e3f_wm.jpeg",
+    "year": "2019",
+    "category": "toyota",
+    "price": 85315
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "description": "The 2020 Toyota Land Cruiser continues the tradition of being a powerful and capable off-road vehicle with a refined interior.",
+    "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/rlx8g19na7a8q7l7iqxj.jpg",
+    "year": "2020",
+    "category": "toyota",
+    "price": 85315
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "description": "The 2021 Toyota Land Cruiser maintains its legendary off-road prowess while offering advanced tech and comfort features.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-land-cruiser-mmp-1-1596116800.jpg",
+    "year": "2021",
+    "category": "toyota",
+    "price": 8500
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "description": "The 2022 Toyota Land Cruiser delivers a blend of luxury and off-road capability with a powerful V8 engine and comfortable interior.",
+    "image": "https://c.ndtvimg.com/2021-06/8bo1e6eo_toyota-land-cruiser-lc300_625x300_10_June_21.jpg",
+    "year": "2022",
+    "category": "toyota",
+    "price": 85565
+  },
+  {
+    "name": "Toyota Land Cruiser (2023)",
+    "description": "The 2023 Toyota Land Cruiser continues the legacy with a durable and capable design, offering comfort and advanced features.",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230801141144-embargoed-01-toyota-land-cruiser-2024-reveal.jpg?c=16x9&q=w_800,c_fill",
+    "year": "2023",
+    "category": "toyota",
+    "price": 85790
+  },
+  {
+    "name": "Tesla Model X",
+    "description": "The Tesla Model X is an all-electric SUV that combines cutting-edge technology, impressive acceleration, spacious interiors, and advanced autopilot features, setting new standards for electric vehicle performance and versatility.",
+    "image": "https://images.prismic.io/carwow/c340a77d-af56-4562-abfb-bd5518ccb292_2023+Tesla+Model+X+front+quarter+moving.jpg",
+    "year": "2023",
+    "category": "tesla",
+    "price": 79990
+  },
+  {
+    "name": "Tesla Model 3",
+    "description": "The 2022 Tesla Model 3 is an electric compact sedan known for its impressive range, advanced Autopilot features, and sleek design.",
+    "image": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/k2lgvymzavkxnsnfjodr",
+    "year": "2022",
+    "category": "tesla",
+    "price": 39990
+  },
+  {
+    "name": "Tesla Model Y",
+    "description": "The 2022 Tesla Model Y is an electric compact SUV with a spacious interior, dual-motor AWD, and advanced technology for a versatile driving experience.",
+    "image": "https://www.motortrend.com/uploads/2022/11/2023-Tesla-Model-Y-12.jpg?fit=around%7C875:492.1875",
+    "year": "2022",
+    "category": "tesla",
+    "price": 53990
+  },
+  {
+    "name": "Jeep Grand Wagoneer",
+    "description": "The 2022 Jeep Grand Wagoneer is a luxurious full-size SUV with a spacious interior, advanced technology, and powerful performance.",
+    "image": "https://fairwheels.com/wp-content/uploads/2020/10/4th-Generation-Jeep-Wrangler-feature-image.jpg",
+    "year": "2022",
+    "category": "jeep",
+    "price": 87590
+  },
+  {
+    "name": "Jeep Grand Wagoneer Series II",
+    "description": "The 2022 Jeep Grand Wagoneer Series II offers even more luxury and features, including premium materials and advanced infotainment.",
+    "image": "https://media.ed.edmunds-media.com/jeep/grand-wagoneer/2022/oem/2022_jeep_grand-wagoneer_4dr-suv_series-iii_fq_oem_1_1280.jpg",
+    "year": "2022",
+    "category": "jeep",
+    "price": 95290
+  },
+  {
+    "name": "Jeep Grand Wagoneer",
+    "description": "The 2023 Jeep Grand Wagoneer continues the tradition of luxury and performance with enhanced features and a refined design.",
+    "image": "https://cdn.jdpower.com/JDP_2023%20Jeep%20Grand%20Wagoneer%20L%20Series%20III%20Silver%20Zynith%20Front%20Quarter%20View.jpg",
+    "year": "2023",
+    "category": "jeep",
+    "price": 89890
+  },
+  {
+    "name": "Ford Mustang GT PP2",
+    "description": "The 2020 Ford Mustang GT PP2 is a high-performance variant known for its track-focused enhancements, including improved handling, braking, and aerodynamics.",
+    "image": "https://cdn-fastly.thetruthaboutcars.com/media/2022/07/19/9173247/2020-ford-mustang-gt-pp2-review-pony-car-essence-at-a-price.jpg?size=1200x628",
+    "year": "2020",
+    "category": "ford",
+    "price": 45865
+  },
+  {
+    "name": "Ford Mustang GT PP2",
+    "description": "The 2021 Ford Mustang GT PP2 continues to offer track-ready performance with a combination of handling and braking upgrades, making it a favorite among enthusiasts.",
+    "image": "https://cdn.motor1.com/images/mgl/ORMlY/s3/2019-ford-mustang-gt-performance-pack-level-2.webp",
+    "year": "2021",
+    "category": "ford",
+    "price": 45710
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2018 Porsche 911 Carrera is a sports car known for its iconic design, rear-engine layout, and impressive performance.",
+    "image": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/c8255c8500887d1694af4aa77d112954",
+    "year": "2018",
+    "category":"porsche",
+    "price": 91100
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2019 Porsche 911 Carrera continues the tradition of the iconic 911 with a focus on performance and luxury.",
+    "image": "https://www.motortrend.com/uploads/sites/5/2017/10/2018-Porsche-911-Carrera-T-front-three-quarters.jpg",
+    "year": "2019",
+    "category":"porsche",
+    "price": 92350
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2020 Porsche 911 Carrera features a refreshed design, advanced technology, and powerful engines for an exhilarating driving experience.",
+    "image": "https://i.insider.com/5f2d803a5af6cc77c927370f?width=700",
+    "year": "2020",
+    "category":"porsche",
+    "price": 97400
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2021 Porsche 911 Carrera maintains its reputation as a sports car icon with further improvements in performance and interior quality.",
+    "image": "https://cdn.carbuzz.com/gallery-images/1600/1062000/500/1062514.jpg",
+    "year": "2021",
+    "category":"popular",
+    "price": 101200
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2021 Porsche 911 Carrera maintains its reputation as a sports car icon with further improvements in performance and interior quality.",
+    "image": "https://cdn.carbuzz.com/gallery-images/1600/1062000/500/1062514.jpg",
+    "year": "2021",
+    "category":"porsche",
+    "price": 101200
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2022 Porsche 911 Carrera brings cutting-edge technology, exceptional performance, and timeless design to the market.",
+    "image": "https://di-uploads-pod15.dealerinspire.com/porscheoffarmingtonhills/uploads/2021/08/2022-Porsche-911-Carrera.jpg",
+    "year": "2022",
+    "category":"porsche",
+    "price": 105450
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "description": "The 2023 Porsche 911 Carrera continues the legacy with new enhancements in performance and updated features for the ultimate sports car experience.",
+    "image": "https://www.slashgear.com/img/gallery/2023-porsche-911-carrera-t-first-drive-a-tribute-to-base-brilliance/l-intro-1669236260.jpg",
+    "year": "2023",
+    "category":"porsche",
+    "price": 108800
+  },
+  {
+    "name": "Range Rover Evoque",
+    "description": "The 2019 Range Rover Evoque is a compact luxury SUV known for its stylish design, advanced technology, and off-road capabilities.",
+    "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/2-land-rover-range-rover-evoque-p200-2019-uk-fd-hero-rear.jpg",
+    "year": "2019",
+    "category": "rover",
+    "price": 42650
+  },
+  {
+    "name": "Range Rover Velar",
+    "description": "The 2020 Range Rover Velar is a midsize luxury SUV with a focus on design, comfort, and cutting-edge infotainment features.",
+    "image": "https://www.topgear.com/sites/default/files/images/cars-road-test/2020/01/0f6e0ebe0efe67482a27494dad014260/row05381.jpg",
+    "year": "2020",
+    "category": "rover",
+    "price": 56300
+  },
+  {
+    "name": "Range Rover Sport",
+    "description": "The 2021 Range Rover Sport is a versatile midsize SUV offering a combination of luxury, performance, and off-road capability.",
+    "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/range-rover-sport_1.jpg?itok=4VcrZtV5",
+    "year": "2021",
+    "category": "rover",
+    "price": 69500
+  },
+  {
+    "name": "Range Rover Discovery",
+    "description": "The 2022 Range Rover Discovery is a full-size luxury SUV with three rows of seating, providing ample space and advanced features.",
+    "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/long-term-review/legacy/ac_-_ww_22_-_lt_lr_discovery_hello_-_20220801_1661.jpg",
+    "year": "2022",
+    "category": "rover",
+    "price": 73950
+  },
+  {
+    "name": "Range Rover Autobiography",
+    "description": "The 2023 Range Rover Autobiography is the flagship model known for its opulence, exceptional performance, and advanced technology.",
+    "image": "https://motoringworld.in/wp-content/uploads/2022/10/Land-Rover-Range-Rover.jpg",
+    "year": "2023",
+    "category": "rover",
+    "price": 132000
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2019 Cadillac CTS-V is a high-performance luxury sedan known for its powerful supercharged V8 engine and sporty handling.",
+    "image": "https://imgcdn.zigwheels.us/medium/gallery/exterior/15/123/cadillac-cts-45306.jpg",
+    "year": "2019", 
+    "category":"popular",
+    "price": 86995
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2019 Cadillac CTS-V is a high-performance luxury sedan known for its powerful supercharged V8 engine and sporty handling.",
+    "image": "https://imgcdn.zigwheels.us/medium/gallery/exterior/15/123/cadillac-cts-45306.jpg",
+    "year": "2019", 
+    "category":"cadillac",
+    "price": 86995
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2020 Cadillac CTS-V offers exceptional power, advanced technology, and a stylish design, making it a standout in the luxury sedan segment.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct6-v-5-1564989008.jpg",
+    "year": "2020",
+    "category": "cadillac",
+    "price": 94895
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2021 Cadillac CTS-V delivers high-performance with a luxurious touch, making it a compelling choice for enthusiasts.",
+    "image": "https://www.carscoops.com/wp-content/uploads/2021/01/Cadillac-CTS-V-Hennessey-1024x555.jpg",
+    "year": "2021",
+    "category": "cadillac",
+    "price": 97295
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2022 Cadillac CTS-V continues the legacy with impressive power and advanced tech features, catering to the performance-driven driver.",
+    "image": "https://www.courtesycadillac.net/assets/shared/CustomHTMLFiles/Responsive/Cadillac/images/CT5-V/MY22CT5BW_AP2_0965FIN.jpg",
+    "year": "2022",
+    "category": "cadillac",
+    "price": 99695
+  },
+  {
+    "name": "Cadillac CTS-V",
+    "description": "The 2023 Cadillac CTS-V offers a harmonious blend of performance and luxury, making it a standout in the luxury sedan market.",
+    "image": "https://www.motorbiscuit.com/wp-content/uploads/2022/08/2023-Cadillac-CT4-Luxury-350T.jpg",
+    "year": "2023",
+    "category": "cadillac",
+    "price": 102995
+  },
+  {
+    "name": "Cadillac CT6",
+    "description": "The 2019 Cadillac CT6 is a full-size luxury sedan known for its spacious and comfortable interior, advanced technology, and refined design.",
+    "image": "https://www.edmunds.com/assets/m/cadillac/ct6/2019/oem/2019_cadillac_ct6_sedan_platinum_fq_oem_1_600.jpg",
+    "year": "2019",
+    "category": "cadillac",
+    "price": 54995
+  },
+  {
+    "name": "Cadillac XT5",
+    "description": "The 2020 Cadillac XT5 is a midsize luxury SUV with a focus on style, comfort, and a wide range of tech features, making it a popular choice among SUV enthusiasts.",
+    "image": "https://cdn.jdpower.com/JDPA_2020%20Cadillac%20XT5%20Premium%20Luxury%20350T%20Silver%20Front%20View.jpg",
+    "year": "2020",
+    "category": "cadillac",
+    "price": 44995
+  },
+  {
+    "name": "Cadillac Escalade",
+    "description": "The 2021 Cadillac Escalade is a full-size luxury SUV with a bold design, upscale interior, and advanced technology, offering a premium driving experience.",
+    "image": "https://cdntdreditorials2.azureedge.net/cache/7/3/d/1/3/4/73d1342f44b260ce39dc051cc81597831dec4025.jpg",
+    "year": "2021",
+    "category": "cadillac",
+    "price": 76195
+  },
+  {
+    "name": "Cadillac XT6",
+    "description": "The 2022 Cadillac XT6 is a midsize luxury SUV with three rows of seating, providing ample space and comfort for families and passengers.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-xt6-mmp-2-1629222737.jpg?crop=1.00xw:0.918xh;0,0.0357xh&resize=980:*",
+    "year": "2022",
+    "category": "cadillac",
+    "price": 53790
+  },
+  {
+    "name": "Cadillac Lyriq",
+    "description": "The 2023 Cadillac Lyriq is an all-electric luxury SUV, showcasing a blend of cutting-edge technology, sustainable driving, and a modern design.",
+    "image": "https://cdntdreditorials2.azureedge.net/cache/8/2/e/f/9/1/82ef91a39f3d174464952bd1e7fc0966c65b124a.jpg",
+    "year": "2023",
+    "category": "cadillac",
+    "price": 59990
+  },
+  {
+    "name": "Land Rover Defender 90",
+    "description": "The 2023 Land Rover Defender 90 is a compact and highly capable off-road SUV, known for its rugged design and exceptional off-road performance.",
+    "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-land-rover-defender-110-2020-uk-fd-hero-front.jpg",
+    "year": "2023",
+    "category": "defender",
+    "price": 49900
+  },
+  {
+    "name": "Land Rover Defender 110",
+    "description": "The 2023 Land Rover Defender 110 is a versatile and spacious off-road SUV with room for passengers and cargo, designed for adventurers.",
+    "image": "https://www.slashgear.com/img/gallery/2023-land-rover-defender-110-review-between-two-worlds/l-intro-1688750138.jpg",
+    "year": "2023",
+    "category": "defender",
+    "price": 52800
+  },
+  {
+    "name": "Land Rover Defender X",
+    "description": "The 2023 Land Rover Defender X is a top-tier variant with exclusive features and a focus on luxury, making it a versatile and premium choice.",
+    "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2022-land-rover-defender-blue-suv-101x565-1.jpg",
+    "year": "2023",
+    "category": "defender",
+    "price": 61800
+  },
+  {
+    "name": "Land Rover Defender V8",
+    "description": "The 2023 Land Rover Defender V8 boasts a powerful V8 engine, enhancing the off-road experience with impressive performance and capability.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/lr-def-110-v8-22my-250221-04-1670343443.jpg",
+    "year": "2023",
+    "category": "defender",
+    "price": 79000
+  },
+  {
+    "name": "Lamborghini Huracán",
+    "description": "The 2023 Lamborghini Huracán is a high-performance sports car known for its stunning design, powerful V10 engine, and exceptional speed.",
+    "image": "https://www.thedrive.com/uploads/2022/07/12/2023-Lamborghini-Huraca%CC%81n-Tecnica_RG_30.jpg",
+    "year": "2023",
+    "category": "lamb",
+    "price": 214966
+  },
+  {
+    "name": "Lamborghini Aventador",
+    "description": "The 2023 Lamborghini Aventador is a flagship supercar with a V12 engine, remarkable aerodynamics, and unparalleled exotic appeal.",
+    "image": "https://w0.peakpx.com/wallpaper/944/397/HD-wallpaper-2023-lamborghini-aventador-svj-outdoor-lamborghini-aventador-svj-lamborghini-aventador-lamborghini-cars.jpg",
+    "year": "2023",
+    "category": "lamb",
+    "price": 429671
+  },
+  {
+    "name": "Lamborghini Urus",
+    "description": "The 2023 Lamborghini Urus is a high-performance SUV that combines supercar-like power with practicality and luxury.",
+    "image": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/rxhq112tyzibkadqvx6u",
+    "year": "2023",
+    "category": "lamb",
+    "price": 218009
+  },
+  {
+    "name": "Lamborghini Gallardo",
+    "description": "The 2022 Lamborghini Gallardo is a classic supercar with a V10 engine, sharp styling, and a thrilling driving experience.",
+    "image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2022/03/Lambo.jpg",
+    "year": "2022",
+    "category": "popular",
+    "price": 248000
+  },
+  {
+    "name": "Lamborghini Gallardo",
+    "description": "The 2022 Lamborghini Gallardo is a classic supercar with a V10 engine, sharp styling, and a thrilling driving experience.",
+    "image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2022/03/Lambo.jpg",
+    "year": "2022",
+    "category": "lamb",
+    "price": 248000
+  },
+  {
+    "name": "Lamborghini Veneno",
+    "description": "The 2021 Lamborghini Veneno is an ultra-rare and exclusive hypercar known for its extreme design and limited production.",
+    "image": "https://www.alainclass.com/wp-content/uploads/2019/07/2-VENENO.jpg",
+    "year": "2021",
+    "category": "lamb",
+    "price": 4100000
+  },
+  {
+    "name": "Lamborghini Countach",
+    "description": "The 2021 Lamborghini Countach is a tribute to the iconic classic, featuring modern performance and a design reminiscent of the original.",
+    "image": "https://www.topgear.com/sites/default/files/2021/08/COUNTACH%20%282%29.jpg",
+    "year": "2021",
+    "category": "lamb",
+    "price": 2500000
+  },
+
+
+  {
+    "name": "BMW M2",
+    "description": "Build your vehicle and get personalized pricing. Got it! Highs Fun-loving chassis, ballistic acceleration, standard six-speed manual.",
+    "image": "https://www.topgear.com/sites/default/files/2022/10/UWE_6091.jpg",
+    "category": "coming",
+    "price": 62200
+  },
+  {
+    "name": "Hyundai Exter",
+    "description": "Hyundai Exter is a 5 Seater seater car, Ex-showroom price starting from Rs. 5,99,900 in India. It is available in 17 variants, 1197.0 cc engine available in and 2 transmission option: Manual,Automatic.",
+    "image": "https://economictimes.indiatimes.com/thumb/height-450,width-600,imgsize-14118,msid-99758243/hyundai.jpg?from=mdr",
+    "category": "coming",
+    "price": 7300
+  },
+  {
+    "name": "BMW M5",
+    "description": "So an E39 M5 from the last model year, 2003, is a rare thing, and a low-mile example is especially rare. Keller estimates that over the last 10 years, EAG has only sold 10 E39 M5s with under 10,000 miles on the clock. In the eyes of a collector, an ultra-low-mile 2003 E39 M5 is the car to have",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-m5-cs-109-1611684117.jpg?crop=0.811xw:0.608xh;0.0433xw,0.224xh&resize=1200:*",
+    "category": "coming",
+    "price": 107900
+  }
+]
